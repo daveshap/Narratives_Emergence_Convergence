@@ -96,7 +96,7 @@ The long term durability of the human race might very well depend upon enough of
 
 
 
-##Chapter 1: The Emergence Model
+## Chapter 1: The Emergence Model
 
 
 ### Primordial Substrate
@@ -212,7 +212,7 @@ Understanding narratives as emergent phenomena rooted in the collective human mi
 
 
 
-##Chapter 2: Narratives
+## Chapter 2: Narratives
 
 
 ### What is a narrative?
@@ -316,7 +316,7 @@ As we navigate this complex landscape of evolving narratives, it is important to
 
 
 
-##Chater 3: Epistemic Tribes
+## Chater 3: Epistemic Tribes
 
 
 ### Shared Narratives
@@ -429,7 +429,7 @@ Ultimately, the creation of larger, more inclusive epistemic tribes offers a pat
 
 
 
-##Chapter 4: The Three Questions
+## Chapter 4: The Three Questions
 
 
 ### Coordinating Narratives
@@ -545,7 +545,7 @@ The question of the correct role of government, therefore, cannot be answered in
 
 
 
-##Chapter 5: Fiction
+## Chapter 5: Fiction
 
 
 ### Entertaining Narratives
@@ -643,7 +643,7 @@ Both deliberate synthesis and natural cultural hybridization play crucial roles 
 
 
 
-##Chapter 6: Science
+## Chapter 6: Science
 
 
 ### The Religion of Science
@@ -753,7 +753,7 @@ In conclusion, the recognition of narratives, emergence, and convergence is cruc
 
 
 
-##Chapter 7: Truth
+## Chapter 7: Truth
 
 
 ### Divergent Truths
@@ -851,7 +851,7 @@ As we move beyond the premature assertions of Modernism and Postmodernism, we fi
 
 
 
-##Chapter 8: Cultures
+## Chapter 8: Cultures
 
 
 ### Sanctity of Culture
@@ -958,7 +958,7 @@ The challenge, then, is to navigate the delicate balance between respecting cult
 
 
 
-##Chapter 9: Values
+## Chapter 9: Values
 
 
 ### Principles and Parables
@@ -1047,7 +1047,7 @@ The question of whether genetic differences play a significant role in shaping c
 
 
 
-##Chapter 10: Cardinality
+## Chapter 10: Cardinality
 
 
 ### The Formula
@@ -1154,7 +1154,7 @@ In reflecting on the power and durability of this narrative, it becomes clear th
 
 
 
-##Chapter 11: Economics
+## Chapter 11: Economics
 
 
 ### Overarching Narratives
@@ -1255,7 +1255,7 @@ These historical examples underscore the predictive power of the relationship be
 
 
 
-##Chapter 12: Government
+## Chapter 12: Government
 
 
 ### Origin Myths
@@ -1361,7 +1361,7 @@ In conclusion, the narrative of global convergence, particularly in the realms o
 
 
 
-##Chapter 13: Religions
+## Chapter 13: Religions
 
 
 ### Postmodernism and Nihilism
@@ -1480,7 +1480,7 @@ It is important to note that the observation of these characteristics in success
 
 
 
-##Chapter 14: War
+## Chapter 14: War
 
 
 ### Structural Realism
@@ -1572,7 +1572,7 @@ In the end, the narrative we choose to embrace—whether one of inevitable confl
 
 
 
-##Chapter 15: Peace & Prosperity
+## Chapter 15: Peace & Prosperity
 
 
 ### Goals & Methods
@@ -1736,7 +1736,7 @@ In conclusion, the evolution of cultural narratives is a complex process influen
 
 
 
-##Chapter 16: China
+## Chapter 16: China
 
 
 ### The Middle Kingdom
@@ -1846,7 +1846,7 @@ As we navigate towards this future, the role of narrative evolution cannot be ov
 
 
 
-##Chapter 17: The Future
+## Chapter 17: The Future
 
 
 ### A Million Years
